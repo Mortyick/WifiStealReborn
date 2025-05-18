@@ -1,2 +1,5 @@
-# WifiSteal
-A “revival” of the “Get wifi anywhere you go” app
+# WifiStealReborn
+
+Basically a shitty remake of the app shown in that vine ad
+
+created as a joke
