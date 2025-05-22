@@ -1,0 +1,63 @@
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-5');
+
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 600px;
+
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.content{
+    width: 100%;
+    position: absolute;
+    top: 50;
+    transform: translateY(-45%);
+    text-align: center;
+    color: #f7f7f7;
+}
+.content h1{
+    font-size: 50px;
+    margin-top: 450px;
+}
+.content p{
+    margin: 20px auto;
+    font-weight: 650;
+    line-weight: 25px;
+    font-size: 25px
+}
+
+button{
+    width: 115px;
+    padding: 8px 0;
+    text-align: center;
+    margin: 20px 10 px;
+    border-radius: 30px;
+    border: 2px solid #0978e7;
+    font-weight: bold;
+    background: #0a83ff;
+    color: #ffffff;
+    cursor: pointer;
+    position: center;
+    bottom: 500 px;
+    left: 320px;
+    font-family: inherit;
+    overflow: hidden;
+    transition-duration: 0.5s;
+    font-size: 15px
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    display: grid;
+    background: black no-repeat;
+    background-size: cover;
+    place-content: center;
+    font-family: "Helvetica Neue", sans-serif;
+}
